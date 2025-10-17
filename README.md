@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Ryan Muto Froes ![super mario GIF](https://github.com/user-attachments/assets/38cdd882-d06f-443d-81eb-678d7742e5e4)
 
-<!--
-**RyanMFroes/RyanMFroes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **desenvolvimento Java**.  
+Gosto de criar soluções simples e funcionais, explorando boas práticas e aprendizado contínuo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Sobre mim
+
+- 🎯 Atualmente estudando **Java e Programação Orientada a Objetos (POO)**  
+- 🧩 Interesso-me por **backend, automação e engenharia de software**  
+- 🧠 Sempre buscando aprimorar lógica, estrutura e clareza no código  
+- ☕ Projetos pessoais focados em **aplicações Java práticas e didáticas**
+
+---
+
+## 🧱 Projetos em destaque
+
+### 🔹 [VeesBank](https://github.com/RyanMFroes/VeesBank)
+> Simulação de sistema bancário desenvolvido em Java, com uso de classes, herança e encapsulamento.
+
+### 🔹 [CalculadoraConsumoEnergia](https://github.com/RyanMFroes/CalculadoraConsumoEnergia)
+> Projeto para calcular o consumo energético de equipamentos residenciais com base em dados do usuário.
+
+### 🔹 [Loja de Livros](https://github.com/RyanMFroes/loja-de-livros)
+> Aplicação de simulação de compra de livros por gênero, utilizando Scanner e listas em Java.
+
+---
+
+## ⚙️ Tecnologias e ferramentas
+
+- **Linguagens:** Java, HTML, CSS  
+- **IDE:** VS Code, IntelliJ IDEA  
+- **Versionamento:** Git & GitHub  
+
+---
+
+## 📫 Contato
+
+- **E-mail:** ryanmutofroes@gmail.com  
+- **LinkedIn:** [linkedin.com/in/ryanmfroes](https://linkedin.com/in/ryanmfroes)  
+
+---
+
+> Aprender é o primeiro passo para criar algo que realmente faz a diferença.
+
