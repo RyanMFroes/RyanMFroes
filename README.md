@@ -1,5 +1,5 @@
  ![super mario GIF](https://github.com/user-attachments/assets/38cdd882-d06f-443d-81eb-678d7742e5e4)
-# 👋 Olá, eu sou o Ryan Muto Froes ![super mario GIF](https://github.com/user-attachments/assets/38cdd882-d06f-443d-81eb-678d7742e5e4)
+# 👋 Olá, eu sou o Ryan Muto Froes
 
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **desenvolvimento Java**.  
