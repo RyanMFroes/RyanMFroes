@@ -1,3 +1,4 @@
+ ![super mario GIF](https://github.com/user-attachments/assets/38cdd882-d06f-443d-81eb-678d7742e5e4)
 # 👋 Olá, eu sou o Ryan Muto Froes ![super mario GIF](https://github.com/user-attachments/assets/38cdd882-d06f-443d-81eb-678d7742e5e4)
 
 
@@ -38,8 +39,8 @@ Gosto de criar soluções simples e funcionais, explorando boas práticas e apre
 
 ## 📫 Contato
 
-- **E-mail:** ryanmutofroes@gmail.com  
-- **LinkedIn:** [linkedin.com/in/ryanmfroes](https://linkedin.com/in/ryanmfroes)  
+- **E-mail:** ryanmuto121@gmail.com  
+- **LinkedIn:** [linkedin.com/in/ryanmuto](https://linkedin.com/in/ryanmuto)  
 
 ---
 
