@@ -29,11 +29,18 @@ Gosto de criar soluções simples e funcionais, explorando boas práticas e apre
 
 ---
 
-## ⚙️ Tecnologias e ferramentas
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Java, HTML, CSS
+- **IDE:** VS Code, IntelliJ IDEA
+- **Versionamento:** Git & GitHub
+- **Banco de Dados:** MySQL
 
-- **Linguagens:** Java, HTML, CSS  
-- **IDE:** VS Code, IntelliJ IDEA  
-- **Versionamento:** Git & GitHub  
+---
+
+## ⚙️ Metodologias e Organização
+- **Metodologias Ágeis:** Scrum, Kanban
+- **Ferramentas de Gestão:** Trello e Notion
+- **Soft Skills:** Trabalho em equipe, comunicação, organização
 
 ---
 
