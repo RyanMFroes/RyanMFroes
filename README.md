@@ -51,5 +51,5 @@ Gosto de criar soluções simples e funcionais, explorando boas práticas e apre
 
 ---
 
-> Aprender é o primeiro passo para criar algo que realmente faz a diferença.
+> Só preciso do seu SIM.
 
